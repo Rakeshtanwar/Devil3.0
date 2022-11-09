@@ -56,7 +56,7 @@ neofetch | pv -qL 500
 sleep 4
 clear
 toilet -f smblock --filter border:metal 'MR 😈 DEVIL'
-PROMPT=$'%F{%(#.blue.green)}😈[root]-[%B%F{reset}%b%F{%(#.blue.green)}Mr Devil]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
+PROMPT=$'%F{%(#.blue.green)}😈[root]-[%B%F{reset}%b%F{%(#.blue.green)}MrDevil]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
     RPROMPT=$'%(?.. %? %F{red}%B⨯%b%F{reset})%(1j. %j %F{yellow}%B⚙%b%F{reset}.)'  " >> .zshrc
 sleep 2
 rm -rf Devil3.0
