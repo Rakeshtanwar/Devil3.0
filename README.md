@@ -6,7 +6,7 @@ Design Your Termux
 ```
 pkg install git
 git clone https://github.com/Rakeshtanwar/Devil3.0  
-cd termux3.0 
+cd Devil3.0 
 chmod +x install.sh 
 ./install.sh
 ```
